@@ -1,0 +1,6 @@
+Dossier de rendu : putchar
+Fichiers à rendre : putchar.c
+Fonctions Autorisées : write
+Remarques : n/a
+
+Écrire une fonction qui affiche le character donné en parametre. 
