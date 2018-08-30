@@ -1,0 +1,9 @@
+Dossier de rendu : print_capital_alphabet/
+Fichiers à rendre : print_capital_alphabet.c
+Fonctions Autorisées : ft_putchar
+
+• Écrire une fonction qui affiche l’alphabet en majuscule sur une seule ligne, dans
+l’ordre croissant, à partir de la lettre ’A’, suivi d'un retour à la ligne.
+• Elle devra être prototypée de la façon suivante :
+
+void print_capital_alphabet(void);

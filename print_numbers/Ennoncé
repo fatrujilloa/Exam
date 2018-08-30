@@ -1,0 +1,9 @@
+Dossier de rendu : print_numbers/
+Fichiers à rendre : print_numbers.c
+Fonctions Autorisées : ft_putchar
+
+• Écrire une fonction qui affiche les nombres de '0' à '9' sur une seule ligne, dans
+l’ordre croissant.
+• Elle devra être prototypée de la façon suivante :
+
+void print_numbers(void);

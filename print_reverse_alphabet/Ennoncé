@@ -1,0 +1,9 @@
+Dossier de rendu : print_reverse_alphabet/
+Fichiers à rendre : print_reverse_alphabet.c
+Fonctions Autorisées : ft_putchar
+
+• Écrire une fonction qui affiche l’alphabet en minuscule sur une seule ligne, dans
+l’ordre décroissant, à partir de la lettre ’z’.
+• Elle devra être prototypée de la façon suivante :
+
+void print_reverse_alphabet(void);

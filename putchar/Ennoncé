@@ -1,0 +1,8 @@
+Dossier de rendu : putchar/
+Fichiers à rendre : putchar
+Fonctions Autorisées : write
+
+• Écrire une fonction qui affiche le character donné en paramétre.
+• Elle devra être prototypée de la façon suivante :
+
+void ft_putchar(char c);

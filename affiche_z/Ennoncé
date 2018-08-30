@@ -1,0 +1,8 @@
+Dossier de rendu : affiche_z/
+Fichiers à rendre :affiche_z.c
+Fonctions Autorisées : write
+
+• Écrire une fonction qui affiche la lettre 'z'. 
+• Elle devra être prototypée de la façon suivante :
+
+void affiche_z(void);
